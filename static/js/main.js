@@ -12,7 +12,7 @@ let itemsData = [{
 {
     id:'BBB',
     name: 'Standard T-shirt',
-    price: 999,
+    price: 1000,
     desc: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, quod?',
     img : 'static/images/faith-yarn-Wr0TpKqf26s-unsplash.jpg'
 },
